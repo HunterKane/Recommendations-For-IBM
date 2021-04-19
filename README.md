@@ -11,7 +11,7 @@ II. Rank Based Recommendations
 
 Provide two functions to get n top articles names and n top articles ids.
 
-III. User-User Based Collaborative Filtering Function create_user_item_matrix: reformat the df dataframe to be shaped with users as the rows and articles as the columns.
+III. User-Based Collaborative Filtering Function create_user_item_matrix: reformat the df dataframe to be shaped with users as the rows and articles as the columns.
 
 Each user should only appear in each row once.
 Each article should only show up in one column.
